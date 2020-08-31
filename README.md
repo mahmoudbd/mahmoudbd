@@ -43,7 +43,7 @@
 [linkedin]: https://www.linkedin.com/in/www.linkedin.com/in/mahmoud-badran-nl/
 [facebook]: https://www.facebook.com/mahmoudbd
 
- [My-projects-HYF]: https://github.com/wesam-k/My-projects-HYF
+ [My-projects-HYF]: https://placessharer.web.app/
  [React_Weather_app]: https://compassionate-roentgen-e3d7b9.netlify.app/
  [places sharing]: https://placessharer.web.app/
  [Breaking_Bad_API]: https://happy-morse-65cdea.netlify.app/
