@@ -47,3 +47,4 @@
  [React_Weather_app]: https://compassionate-roentgen-e3d7b9.netlify.app/
  [places sharing]: https://placessharer.web.app/
  [Breaking_Bad_API]: https://happy-morse-65cdea.netlify.app/
+ [StarWarsAPI]: https://kind-jackson-9e63e0.netlify.app/
