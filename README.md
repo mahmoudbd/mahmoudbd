@@ -35,8 +35,9 @@
 
 - [My-projects-HYF]
 - [React_Weather_app]
-- finial graduated project with classmates [places sharing]
+- Finial graduated project with classmates [places sharing]
 - [Breaking_Bad_API]
+- [StarWarsAPI]
 
 [website]: https://github.com/mahmoudbd
 [instagram]: https://www.instagram.com/
