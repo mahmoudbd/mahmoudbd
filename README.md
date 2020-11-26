@@ -37,7 +37,7 @@
 - [Breaking_Bad_API]
 - [StarWarsAPI]
 - [Wildfire-Tracker]
-- Finial graduated project with classmates [places sharing]
+
 
 [website]: https://github.com/mahmoudbd
 [instagram]: https://www.instagram.com/
@@ -45,7 +45,6 @@
 [facebook]: https://www.facebook.com/mahmoud.badran.39
 
  [My-projects-HYF]: https://placessharer.web.app/
- [places sharing]: https://placessharer.web.app/
  [Breaking_Bad_API]: https://happy-morse-65cdea.netlify.app/
  [StarWarsAPI]: https://kind-jackson-9e63e0.netlify.app/
  [Wildfire-Tracker]: https://wildefiretracker.netlify.app/
