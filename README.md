@@ -34,10 +34,10 @@
 ### Projects:
 
 - [My-projects-HYF]
-- Finial graduated project with classmates [places sharing]
 - [Breaking_Bad_API]
 - [StarWarsAPI]
 - [Wildfire-Tracker]
+- Finial graduated project with classmates [places sharing]
 
 [website]: https://github.com/mahmoudbd
 [instagram]: https://www.instagram.com/
