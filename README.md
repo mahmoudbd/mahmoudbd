@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mahmoudbd@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="mahmoudbd@gmail.com | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="mahmoudbd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mahmoudbd | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mahmoudbd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -41,7 +41,7 @@
 
 
 [website]: https://github.com/mahmoudbd
-[Gmail]: mahmoudbd@gmail.com
+[gmail]: <mailto:mahmoudbd@gmail.com>
 [instagram]: https://www.instagram.com/mahmoud___badran/
 [linkedin]: https://www.linkedin.com/in/mahmoud-badran-nl/
 [facebook]: https://www.facebook.com/mahmoud.badran.39
