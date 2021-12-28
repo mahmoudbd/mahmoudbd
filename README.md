@@ -34,7 +34,6 @@
 
 ### Projects:
 
-- [My-projects-HYF]
 - [Breaking_Bad_API]
 - [StarWarsAPI]
 - [Wildfire-Tracker]
@@ -46,7 +45,6 @@
 [linkedin]: https://www.linkedin.com/in/mahmoud-badran-nl/
 [facebook]: https://www.facebook.com/mahmoud.badran.39
 
- [My-projects-HYF]: https://placessharer.web.app/
  [Breaking_Bad_API]: https://happy-morse-65cdea.netlify.app/
  [StarWarsAPI]: https://kind-jackson-9e63e0.netlify.app/
  [Wildfire-Tracker]: https://wildefiretracker.netlify.app/
