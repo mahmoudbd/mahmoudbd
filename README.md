@@ -1,11 +1,12 @@
 ### Hi there, I'm Mahmoud Badran [mahmoudbd][website] 👋
 
 ## I'm a Junior Web Developer !
-- 🔭 I’m currently working on a VS Code 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to become as professional Developer
-- 🥅 2020 Goals: Finish study in HYF and get an internship  
-- ⚡ Fun fact: I love to travel and visit ancient cities
+
+- 🔭 I’m currently working on a VS Code.
+- 🌱 I’m currently learning everything. 🤣
+- 👯 I’m looking to become as professional Developer.
+- 🥅 2020 Goals: Finish study in HYF and get an internship.
+- ⚡ Fun fact: I love to travel and visit ancient cities.
 
 ### Connect with me:
 
@@ -13,7 +14,6 @@
 [<img align="left" alt="mahmoudbd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mahmoudbd | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mahmoudbd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 <br />
 
@@ -31,7 +31,6 @@
 <br />
 <br />
 
-
 ### Projects:
 
 - [Breaking_Bad_API]
@@ -40,13 +39,11 @@
 - [MediaShop-App]
 
 [website]: https://github.com/mahmoudbd
-[gmail]: <mailto:mahmoudbd@gmail.com>
+[gmail]: mailto:mahmoudbd@gmail.com
 [instagram]: https://www.instagram.com/mahmoud___badran/
 [linkedin]: https://www.linkedin.com/in/mahmoud-badran-nl/
 [facebook]: https://www.facebook.com/mahmoud.badran.39
-
- [Breaking_Bad_API]: https://happy-morse-65cdea.netlify.app/
- [StarWarsAPI]: https://kind-jackson-9e63e0.netlify.app/
- [Wildfire-Tracker]: https://wildefiretracker.netlify.app/
- [MediaShop-App]: https://mediashopapp.herokuapp.com/
- 
+[Breaking_Bad_API]: https://happy-morse-65cdea.netlify.app/
+[StarWarsAPI]: https://kind-jackson-9e63e0.netlify.app/
+[Wildfire-Tracker]: https://wildefiretracker.netlify.app/
+[MediaShop-App]: https://mediashopapp.herokuapp.com/
